@@ -1,6 +1,6 @@
 module.exports = {
-  title: "gewel",
-  description: "Mencoba Vuepress",
+  title: "catatan gewel",
+  description: "sehari hari",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
