@@ -5,9 +5,9 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "fb", link: "/fb/" },
-      { text: "twitter", link: "/twitter/" },
-      { text: "instagram", link: "/instagram/" },
-      { text: "wa", link: "/wa/" }
+      { text: "termux", link: "/termux/" },
+      { text: "lain", link: "/lain/" },
+      { text: "notes", link: "notes/" }
     ]
 	}
 }
